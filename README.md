@@ -1,23 +1,58 @@
-<h1 align="center">Hi 👋, I'm Afsan Idreesi</h1>
-<h3 align="center">Full Stack Developer with B.Sc. in IT, 2 years of freelancing experience</h3>
+# Hi, I'm Afsan Idreesi 👋 
+### Full-Stack Product Engineer | AI R&D Specialist | MERN Expert
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afsanidrisi&label=Profile%20views&color=0e75b6&style=flat" alt="afsanidrisi" /> </p>
+[cite_start]I am a Full-Stack Developer with over 2 years of independent engineering experience, specializing in the entire product development lifecycle—from R&D and Strategy to high-performance Optimization[cite: 1, 2, 21]. [cite_start]I focus on bridging the gap between complex AI models (Gemini/ChatGPT) and production-ready web applications[cite: 14, 15, 42, 51].
 
-- 🔭 I’m currently working on [Trylle](trylle.co.in)
+---
 
-- 📫 How to reach me **afsan55official@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dev.afsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.afsan" height="30" width="40" /></a>
-<a href="https://instagram.com/afsa.d.ev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afsa.d.ev" height="30" width="40" /></a>
+### 📊 Engineering at a Glance
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AfsanIdrisi&show_icons=true&theme=radical&rank_icon=github&show=reviews,prs_merged&border_radius=10" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=AfsanIdrisi&layout=compact&theme=radical&langs_count=8&hide=html,css,php&border_radius=10" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afsanidrisi&show_icons=true&locale=en&layout=compact" alt="afsanidrisi" /></p>
+### 🚀 Featured Global Proof (AI & SaaS)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afsanidrisi&show_icons=true&locale=en" alt="afsanidrisi" /></p>
+#### [Trylle AI](https://trylle.co.in) | AI-Powered Virtual Try-On SaaS
+* **The Problem:** E-commerce stores lack personalized fitting experiences.
+* **The Solution:** Built a "Plug & Play" SaaS using **Gemini API** for real-time fashion suggestions and virtual try-ons.
+* [cite_start]**Key Tech:** Next.js, Node.js, MongoDB, Gemini AI[cite: 14, 15].
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afsanidrisi&" alt="afsanidrisi" /></p>
+#### [Artiure Luxury](https://artiure.com) | AI-Optimized Art Marketplace
+* [cite_start]**Innovation:** Integrated **ChatGPT API** to automate SEO-optimized product descriptions for luxury art pieces[cite: 42, 47].
+* [cite_start]**Performance:** Engineered high-speed image loading and custom interior visualization tools[cite: 49].
+* [cite_start]**Infrastructure:** Scalable MongoDB architecture with **AWS SES** for secure transaction management[cite: 42, 48].
+
+#### [Only Raps](https://onlyraps.com) | Ed-Tech & FinTech Platform
+* **FinTech:** Full integration of **Razorpay API** suite, managing automated subscriptions and webhooks.
+* **Architecture:** Developed a custom "Virtual Credit" currency system to facilitate marketplace transactions.
+
+---
+
+### 🛠️ Technical Arsenal
+* [cite_start]**Languages:** JavaScript (ES6+), Python, C++, Java[cite: 19].
+* [cite_start]**Frontend:** Next.js (SSR/ISR), React.js, Tailwind CSS, Shadcn UI[cite: 14, 18].
+* [cite_start]**Backend:** Node.js, Express.js, PHP (Laravel)[cite: 18, 82].
+* [cite_start]**Cloud/DevOps:** AWS SES, Digital Ocean, Vercel, Hostinger VPS, Git/GitHub[cite: 20, 48, 52].
+* [cite_start]**Research:** Published author on AI-driven educational tools and mathematical visualization .
+
+---
+
+### 📈 Professional Highlights
+* [cite_start]**Leadership:** Managed a team of 3 junior developers to deliver 5+ full-cycle web projects[cite: 21].
+* **Automation:** Created custom Shell scripts to eliminate deployment errors.
+* [cite_start]**Education:** B.Sc. in Information Technology, Rizvi College (9.0 CGPA)[cite: 8, 9].
+
+---
+
+### 📫 Connect with Me
+- [cite_start]**LinkedIn:** [linkedin.com/in/devafsan](https://www.linkedin.com/in/devafsan) [cite: 6]
+- [cite_start]**Email:** [afsan55official@gmail.com](mailto:afsan55official@gmail.com) [cite: 5]
+- [cite_start]**Location:** Mumbai, India (Open to Worldwide Remote Roles) [cite: 1, 2]
+
+---
+<p align="center">
+  <i>"I build products that scale and AI that works."</i>
+</p>
