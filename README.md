@@ -1,58 +1,55 @@
-# Hi, I'm Afsan Idreesi 👋 
+# 🚀 Afsan Idreesi
 ### Full-Stack Product Engineer | AI R&D Specialist | MERN Expert
 
-[cite_start]I am a Full-Stack Developer with over 2 years of independent engineering experience, specializing in the entire product development lifecycle—from R&D and Strategy to high-performance Optimization[cite: 1, 2, 21]. [cite_start]I focus on bridging the gap between complex AI models (Gemini/ChatGPT) and production-ready web applications[cite: 14, 15, 42, 51].
-
----
-
-### 📊 Engineering at a Glance
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AfsanIdrisi&show_icons=true&theme=radical&rank_icon=github&show=reviews,prs_merged&border_radius=10" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=AfsanIdrisi&layout=compact&theme=radical&langs_count=8&hide=html,css,php&border_radius=10" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/devafsan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:afsan55official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://trylle.co.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 Featured Global Proof (AI & SaaS)
-
-#### [Trylle AI](https://trylle.co.in) | AI-Powered Virtual Try-On SaaS
-* **The Problem:** E-commerce stores lack personalized fitting experiences.
-* **The Solution:** Built a "Plug & Play" SaaS using **Gemini API** for real-time fashion suggestions and virtual try-ons.
-* [cite_start]**Key Tech:** Next.js, Node.js, MongoDB, Gemini AI[cite: 14, 15].
-
-#### [Artiure Luxury](https://artiure.com) | AI-Optimized Art Marketplace
-* [cite_start]**Innovation:** Integrated **ChatGPT API** to automate SEO-optimized product descriptions for luxury art pieces[cite: 42, 47].
-* [cite_start]**Performance:** Engineered high-speed image loading and custom interior visualization tools[cite: 49].
-* [cite_start]**Infrastructure:** Scalable MongoDB architecture with **AWS SES** for secure transaction management[cite: 42, 48].
-
-#### [Only Raps](https://onlyraps.com) | Ed-Tech & FinTech Platform
-* **FinTech:** Full integration of **Razorpay API** suite, managing automated subscriptions and webhooks.
-* **Architecture:** Developed a custom "Virtual Credit" currency system to facilitate marketplace transactions.
+### 💻 Engineering Overview
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AfsanIdrisi&show_icons=true&theme=dark&rank_icon=github&show=reviews,prs_merged&border_radius=10" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=AfsanIdrisi&layout=compact&theme=dark&langs_count=8&hide=html,css,php&border_radius=10" />
+</p>
 
 ---
 
 ### 🛠️ Technical Arsenal
-* [cite_start]**Languages:** JavaScript (ES6+), Python, C++, Java[cite: 19].
-* [cite_start]**Frontend:** Next.js (SSR/ISR), React.js, Tailwind CSS, Shadcn UI[cite: 14, 18].
-* [cite_start]**Backend:** Node.js, Express.js, PHP (Laravel)[cite: 18, 82].
-* [cite_start]**Cloud/DevOps:** AWS SES, Digital Ocean, Vercel, Hostinger VPS, Git/GitHub[cite: 20, 48, 52].
-* [cite_start]**Research:** Published author on AI-driven educational tools and mathematical visualization .
+| Category | Stack |
+| :--- | :--- |
+| **Frontend** | React.js, Next.js (SSR), Tailwind CSS, Shadcn UI |
+| **Backend** | Node.js, Express.js, PHP (Laravel), Python |
+| **Database** | MongoDB (NoSQL), MySQL (SQL) |
+| **Cloud/AI** | Gemini AI, ChatGPT API, AWS SES, Digital Ocean, Vercel |
 
 ---
 
-### 📈 Professional Highlights
-* [cite_start]**Leadership:** Managed a team of 3 junior developers to deliver 5+ full-cycle web projects[cite: 21].
-* **Automation:** Created custom Shell scripts to eliminate deployment errors.
-* [cite_start]**Education:** B.Sc. in Information Technology, Rizvi College (9.0 CGPA)[cite: 8, 9].
+### 📂 Featured Production Work
+
+#### 🤖 [Trylle AI](https://trylle.co.in) | AI-Powered Virtual Try-On SaaS
+* **The Problem:** Solving the digital fitting gap for global e-commerce.
+* **Solution:** Built a high-performance SaaS using **Gemini API** for real-time fashion intelligence.
+* **Impact:** Engineered a "plug-and-play" integration for WordPress and Shopify stores.
+
+#### 🎨 [Artiure Luxury](https://artiure.com) | AI-Optimized E-Commerce
+* **Innovation:** Automated SEO workflows by integrating **ChatGPT API** for high-end product indexing.
+* **Architecture:** Designed a custom admin CMS to manage high-resolution luxury assets and global order flows.
+
+#### ⚖️ [Legal Connect](https://legalconnects.in) | Advocate Marketplace
+* **Scale:** Built a MERN-stack marketplace connecting legal professionals with clients using geography-based search algorithms.
 
 ---
 
-### 📫 Connect with Me
-- [cite_start]**LinkedIn:** [linkedin.com/in/devafsan](https://www.linkedin.com/in/devafsan) [cite: 6]
-- [cite_start]**Email:** [afsan55official@gmail.com](mailto:afsan55official@gmail.com) [cite: 5]
-- [cite_start]**Location:** Mumbai, India (Open to Worldwide Remote Roles) [cite: 1, 2]
+### 📝 Research & Publications
+* **Equation Visualizer:** Published at Rumi International Conference (2025).
+* **Play Learn:** Research on specially-abled children's education via gaming (2025).
+* **Certifications:** Python & C++ (IIT Bombay), Web Design (SVG SDI).
 
 ---
+
 <p align="center">
-  <i>"I build products that scale and AI that works."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
