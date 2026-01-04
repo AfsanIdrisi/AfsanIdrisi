@@ -10,10 +10,10 @@
 ---
 
 ### 💻 Engineering Overview
-<p align="center">
+<!-- <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=AfsanIdrisi&show_icons=true&theme=dark&rank_icon=github&show=reviews,prs_merged&border_radius=10" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=AfsanIdrisi&layout=compact&theme=dark&langs_count=8&hide=html,css,php&border_radius=10" />
-</p>
+</p> -->
 
 ---
 
@@ -47,10 +47,7 @@
 * **Equation Visualizer:** Published at Rumi International Conference (2025).
 * **Play Learn:** Research on specially-abled children's education via gaming (2025).
 * **Certifications:** Python & C++ (IIT Bombay), Web Design (SVG SDI).
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=afsanidrisi&show_icons=true&theme=radical&rank_icon=github&border_radius=10" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=afsanidrisi&layout=compact&theme=radical&langs_count=8&hide=html,css,php&border_radius=10" />
-</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afsanidrisi&" alt="afsanidrisi" /></p>
 
 ---
