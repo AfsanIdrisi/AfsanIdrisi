@@ -47,11 +47,10 @@
 * **Equation Visualizer:** Published at Rumi International Conference (2025).
 * **Play Learn:** Research on specially-abled children's education via gaming (2025).
 * **Certifications:** Python & C++ (IIT Bombay), Web Design (SVG SDI).
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AfsanIdrisi&show_icons=true&locale=en&layout=compact" alt="afsanidrisi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afsanidrisi&show_icons=true&locale=en" alt="afsanidrisi" /></p>
-
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=afsanidrisi&show_icons=true&theme=radical&rank_icon=github&border_radius=10" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=afsanidrisi&layout=compact&theme=radical&langs_count=8&hide=html,css,php&border_radius=10" />
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afsanidrisi&" alt="afsanidrisi" /></p>
 
 ---
